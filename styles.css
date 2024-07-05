@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.star{
+	position: relative;
+	width: 30px;
+	height: 30px;
+	margin-top: 20px;
+	border-bottom: 100px solid rgb(255,255,0);
+	border-left: 50px solid rgba(0,0,0,0);
+	border-right: 50px solid rgba(0,0,0,0);
+	font-size: 24px;
+}
+
+#star1 {
+	top: -70px;
+    position: relative;
+    content: '';
+	width: 30px;
+	height: 30px;
+	font-size: 24px;
+    border-top: 100px solid rgb(255,255,0);
+	border-left: 50px solid rgba(0,0,0,0);
+	border-right: 50px solid rgba(0,0,0,0);
+}
